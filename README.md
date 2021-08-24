@@ -9,5 +9,3 @@
 - Javascript
 - Canvas API
 - Socket.io
-
-### Link: https://mayank52.github.io/WhiteBoard/
